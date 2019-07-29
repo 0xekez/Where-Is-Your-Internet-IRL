@@ -7,6 +7,7 @@ It's easy to forget that everything we see online has a physical location. All t
 
 
 ![example_map](example_map.jpg)
+__Explore an [interactive version of this map](https://zekemedley.github.io/Where-Is-Your-Internet-IRL/index.html).__
 
 
 
