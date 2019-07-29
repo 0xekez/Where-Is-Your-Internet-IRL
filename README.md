@@ -2,7 +2,7 @@
 
 #### Track and plot the physical location of your internet traffic.
 
-It's easy to forget that everything we see online has a physical location. All the videos we watch, text we read, adds we see, and even this README are being stored somewhere inside a server. This is a tool to track and subsequentally plot the physical location of those servers.
+It's easy to forget that everything we see online has a physical location. All the videos we watch, text we read, ads we see, and even this README are being stored somewhere inside a server. This is a tool to track and subsequentally plot the physical location of those servers.
 
 
 
