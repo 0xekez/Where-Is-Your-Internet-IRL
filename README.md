@@ -30,3 +30,5 @@ to collect the data that we'll need and pipe it to a file called `loc.data`. Whi
 
 
 Finally, to generate the heat map go ahead and open up either the included Wolfram Language or iPython notebook and run through it.
+
+This project was ideated and designed by [Annalise](https://akamegawa98.github.io/hello.html) and implemented by me.
